@@ -41,4 +41,4 @@ The trained model predicts the genre of a movie based on the plot provided by th
 - `README.md` - Project documentation
 - ## Demo Video
 
-[Watch Task 4 Demo Video](https://drive.google.com/file/d/1ujc-KbqfUF3RGsQx0EA7szZ-fxNzklyN/view?usp=sharing)
+[Watch Task 1 Demo Video](https://drive.google.com/file/d/1ujc-KbqfUF3RGsQx0EA7szZ-fxNzklyN/view?usp=sharing)
