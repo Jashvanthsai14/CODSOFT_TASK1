@@ -39,3 +39,6 @@ The trained model predicts the genre of a movie based on the plot provided by th
 
 - `CODSOFT_Task1_Movie_Genre_Classification.ipynb` - Jupyter Notebook containing the complete project
 - `README.md` - Project documentation
+- ## Demo Video
+
+[Watch Task 4 Demo Video](https://drive.google.com/file/d/1ujc-KbqfUF3RGsQx0EA7szZ-fxNzklyN/view?usp=sharing)
